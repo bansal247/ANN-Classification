@@ -3,3 +3,5 @@ scikit-learn
 tensorboard
 matplotlib
 streamlit
+scikeras
+matplotlib
